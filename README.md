@@ -11,6 +11,7 @@
 📫 Reach me at:
 ✉️ meet.m.upadhyay@gmail.com
 🔗 https://linkedin.com/in/meet-m-upadhyay
+
 🌍 Based in Bengaluru, India
 
 <!---
