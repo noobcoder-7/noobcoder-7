@@ -14,6 +14,16 @@
 
 📈 I love designing efficient systems—improved application performance by 40–60% and reduced deployment time by 70% across projects
 
+## Github Analysis
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ananttripathi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true%22 />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ananttripathi&layout=compact&theme=tokyonight&hide_border=true%22 />
+</p>
+ 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ananttripathi&theme=tokyonight&hide_border=true%22 alt="GitHub Streak" />
+</p>
+
 📫 Reach me at:
 ✉️ meet.m.upadhyay@gmail.com
 🔗 https://linkedin.com/in/meet-m-upadhyay
